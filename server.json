@@ -3,12 +3,16 @@
   "name": "com.agentloadout/agent-loadout",
   "title": "Agent Loadout",
   "description": "Live SEO, Maps, ads, contacts and AI search data, with 62 methods to win and serve agency clients.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://agentloadout.com/mcp",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://mcp.agentloadout.com/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/agentloadout/mcp",
+    "source": "github"
+  }
 }
